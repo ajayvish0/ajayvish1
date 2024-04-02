@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Ajay Vishwakarma
 
 🎓 Recent Computer Science Graduate | 🚀 Aspiring MERN Stack Developer | 💡 Enthusiastic Learner
 
