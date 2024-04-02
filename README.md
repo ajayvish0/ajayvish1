@@ -12,10 +12,10 @@ I am a passionate and motivated Computer Science, Engineering, AI/ML graduate wi
 
 ## 🛠️ Skills
 
-- **Programming Languages**: JavaScript, TypeScript
+- **Programming Languages**: JavaScript, TypeScript, C++  
 - **Frontend**: React, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB 
 - **Tools & Technologies**: Git, GitHub, RESTful APIs
 
 ---
