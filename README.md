@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Ajay Vishwakarma
 
-🎓 Recent Computer Science Graduate | 🚀 Aspiring MERN Stack Developer | 💡 Enthusiastic Learner
+🎓 Recent CSE/AI/ML Graduate | 🚀 Aspiring MERN Stack Developer | 💡 Enthusiastic Learner
 
 ---
 
 ## 🌟 About Me
 
-I am a passionate and motivated Computer Science graduate with a strong foundation in MERN (MongoDB, Express.js, React, Node.js) stack development. Eager to contribute my skills and knowledge to a dynamic team and make a positive impact on exciting projects.
+I am a passionate and motivated Computer Science, Engineering, AI/ML graduate with a strong foundation in MERN (MongoDB, Express.js, React, Node.js) stack development. Eager to contribute my skills and knowledge to a dynamic team and make a positive impact on exciting projects.
 
 ---
 
@@ -63,6 +63,4 @@ Excited about contributing and being a part of a great team where I can leverage
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out for collaboration, project opportunities, or just to connect and discuss exciting tech projects and innovations.
-
-Happy coding! 🚀
+Thank you for visiting my GitHub profile! Feel free to reach out for collaboration, project opportunities, or just to connect and discuss e
