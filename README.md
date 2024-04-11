@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ajay Vishwakarma
 
-🎓 Recent CSE/AI/ML Graduate | 🚀 Aspiring MERN Stack Developer | 💡 Enthusiastic Learner
+🎓 Recent CSE/AIML Graduate | 🚀 Aspiring MERN Stack Developer | 💡 Enthusiastic Learner
 
 ---
 
